@@ -8,11 +8,11 @@
     <fragment
         android:id="@+id/my_dest"
         android:name="com.gulshan.learnbottomnavigation.MyFragment"
-        android:label="fragment_my"
+        android:label="My"
         tools:layout="@layout/fragment_my" />
     <fragment
         android:id="@+id/friends_dest"
         android:name="com.gulshan.learnbottomnavigation.FriendsFragment"
-        android:label="fragment_friends"
+        android:label="Friends"
         tools:layout="@layout/fragment_friends" />
 </navigation>
