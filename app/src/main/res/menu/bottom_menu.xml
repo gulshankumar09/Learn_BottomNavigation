@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/my_dest"
+        android:icon="@drawable/ic_my_24"
+        android:title="My" />
+    <item
+        android:id="@+id/friends_dest"
+        android:icon="@drawable/ic_friends_24"
+        android:title="Friends" />
+</menu>
